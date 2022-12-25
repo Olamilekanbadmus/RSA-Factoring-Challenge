@@ -47,7 +47,3 @@ def fc():
                     print("{}={}*{}".format(revnumber, revnumber, 1))
     except (IndexError):
         pass
-
-
-# autostart
-fc()
